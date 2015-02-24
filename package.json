@@ -15,7 +15,7 @@
   "dependencies": {
     "bcrypt": ">=0.5.0",
     "mongoose": ">=2.4.8",
-    "everyauth": "https://github.com/bischit/everyauth.git#92284d7461a02ff9107c4f0a2f87d5f3c9ea6b00",
+    "everyauth": "git://github.com/bischit/everyauth.git#92284d7461a02ff9107c4f0a2f87d5f3c9ea6b00",
     "mongoose-types": ">=1.0.3"
   },
   "devDependencies": {
